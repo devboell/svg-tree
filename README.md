@@ -1,6 +1,10 @@
+#### svg-tree
+
+This project is related to the family-tree project. It isolates the svg frontend part for better testing and refactoring.
+
 #### notes
 
-in case of multiple childless partners, the totalWidth of the partner node is equal to the node width itself. This causes a problem during displaying, where `x = (totalWidth / 2)` is smaller than nodeWidth and therefore half of the node is 'out of bounds' (indented to the right)
+In case of multiple childless partners, the totalWidth of the partner node is equal to the node width itself. This causes a problem during displaying, where `x = (totalWidth / 2)` is smaller than nodeWidth and therefore half of the node is 'out of bounds' (indented to the right)
 
 Currently this is fixed by assigning a min width `partnerNode.totalWidth = 2 * nodeWidth` in case of childless partner nodes. However, visually the distance between the first partner and the other partners may be too big.
 
