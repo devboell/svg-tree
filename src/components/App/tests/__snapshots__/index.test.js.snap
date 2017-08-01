@@ -5,8 +5,8 @@ exports[`App component 1`] = `
   class="sc-bwzfXH jTAEBk"
 >
   <svg
-    height="62"
-    width="662"
+    height="452"
+    width="992"
   >
     <g
       fill="none"
@@ -17,7 +17,7 @@ exports[`App component 1`] = `
       <foreignobject
         height="60"
         width="80"
-        x="30"
+        x="415"
         y="0"
       >
         <div
@@ -35,7 +35,7 @@ exports[`App component 1`] = `
         <foreignobject
           height="60"
           width="80"
-          x="140"
+          x="525"
           y="0"
         >
           <div
@@ -49,53 +49,399 @@ exports[`App component 1`] = `
           </div>
         </foreignobject>
         <path
-          d="M 140 30 H 112"
+          d="M 525 30 H 497"
           stroke="red"
         />
-      </g>
-      <g>
-        <foreignobject
-          height="60"
-          width="80"
-          x="360"
-          y="0"
+        <g
+          fill="none"
+          stroke="black"
+          stroke-width="1"
+          style="shape-rendering:crispEdges;"
         >
-          <div
-            class="sc-bdVaJa iTJoaa"
+          <foreignobject
             height="60"
             width="80"
+            x="30"
+            y="90"
           >
-            <p>
-              mistress
-            </p>
-          </div>
-        </foreignobject>
-        <path
-          d="M 360 30 H 222"
-          stroke="red"
-        />
-      </g>
-      <g>
-        <foreignobject
-          height="60"
-          width="80"
-          x="580"
-          y="0"
+            <div
+              class="sc-bdVaJa iTJoaa"
+              height="60"
+              width="80"
+            >
+              <p>
+                William Rufus
+              </p>
+            </div>
+          </foreignobject>
+          <g>
+            <path
+              d="M 70 90 V 75 H 510 V 30"
+            />
+          </g>
+        </g>
+        <g
+          fill="none"
+          stroke="black"
+          stroke-width="1"
+          style="shape-rendering:crispEdges;"
         >
-          <div
-            class="sc-bdVaJa iTJoaa"
+          <foreignobject
             height="60"
             width="80"
+            x="195"
+            y="90"
           >
-            <p>
-              mistress 2
-            </p>
-          </div>
-        </foreignobject>
-        <path
-          d="M 580 30 H 442"
-          stroke="red"
-        />
+            <div
+              class="sc-bdVaJa iTJoaa"
+              height="60"
+              width="80"
+            >
+              <p>
+                Henry I
+              </p>
+            </div>
+          </foreignobject>
+          <g>
+            <path
+              d="M 235 90 V 75 H 510 V 30"
+            />
+          </g>
+          <g>
+            <foreignobject
+              height="60"
+              width="80"
+              x="305"
+              y="90"
+            >
+              <div
+                class="sc-bdVaJa iTJoaa"
+                height="60"
+                width="80"
+              >
+                <p>
+                  Matilde of Scotland
+                </p>
+              </div>
+            </foreignobject>
+            <path
+              d="M 305 120 H 277"
+              stroke="red"
+            />
+            <g
+              fill="none"
+              stroke="black"
+              stroke-width="1"
+              style="shape-rendering:crispEdges;"
+            >
+              <foreignobject
+                height="60"
+                width="80"
+                x="140"
+                y="180"
+              >
+                <div
+                  class="sc-bdVaJa iTJoaa"
+                  height="60"
+                  width="80"
+                >
+                  <p>
+                    William Adelin
+                  </p>
+                </div>
+              </foreignobject>
+              <g>
+                <path
+                  d="M 180 180 V 165 H 290 V 120"
+                />
+              </g>
+            </g>
+            <g
+              fill="none"
+              stroke="black"
+              stroke-width="1"
+              style="shape-rendering:crispEdges;"
+            >
+              <foreignobject
+                height="60"
+                width="80"
+                x="250"
+                y="180"
+              >
+                <div
+                  class="sc-bdVaJa iTJoaa"
+                  height="60"
+                  width="80"
+                >
+                  <p>
+                    Empress Matilde
+                  </p>
+                </div>
+              </foreignobject>
+              <g>
+                <path
+                  d="M 290 180 V 165 H 290 V 120"
+                />
+              </g>
+              <g>
+                <foreignobject
+                  height="60"
+                  width="80"
+                  x="360"
+                  y="180"
+                >
+                  <div
+                    class="sc-bdVaJa iTJoaa"
+                    height="60"
+                    width="80"
+                  >
+                    <p>
+                      Geoffrey Plantagenet
+                    </p>
+                  </div>
+                </foreignobject>
+                <path
+                  d="M 360 210 H 332"
+                  stroke="red"
+                />
+                <g
+                  fill="none"
+                  stroke="black"
+                  stroke-width="1"
+                  style="shape-rendering:crispEdges;"
+                >
+                  <foreignobject
+                    height="60"
+                    width="80"
+                    x="250"
+                    y="270"
+                  >
+                    <div
+                      class="sc-bdVaJa iTJoaa"
+                      height="60"
+                      width="80"
+                    >
+                      <p>
+                        Henry II
+                      </p>
+                    </div>
+                  </foreignobject>
+                  <g>
+                    <path
+                      d="M 290 270 V 255 H 345 V 210"
+                    />
+                  </g>
+                  <g>
+                    <foreignobject
+                      height="60"
+                      width="80"
+                      x="360"
+                      y="270"
+                    >
+                      <div
+                        class="sc-bdVaJa iTJoaa"
+                        height="60"
+                        width="80"
+                      >
+                        <p>
+                          Eleanor of Aquitane
+                        </p>
+                      </div>
+                    </foreignobject>
+                    <path
+                      d="M 360 300 H 332"
+                      stroke="red"
+                    />
+                    <g
+                      fill="none"
+                      stroke="black"
+                      stroke-width="1"
+                      style="shape-rendering:crispEdges;"
+                    >
+                      <foreignobject
+                        height="60"
+                        width="80"
+                        x="250"
+                        y="360"
+                      >
+                        <div
+                          class="sc-bdVaJa iTJoaa"
+                          height="60"
+                          width="80"
+                        >
+                          <p>
+                            Richard I
+                          </p>
+                        </div>
+                      </foreignobject>
+                      <g>
+                        <path
+                          d="M 290 360 V 345 H 345 V 300"
+                        />
+                      </g>
+                    </g>
+                    <g
+                      fill="none"
+                      stroke="black"
+                      stroke-width="1"
+                      style="shape-rendering:crispEdges;"
+                    >
+                      <foreignobject
+                        height="60"
+                        width="80"
+                        x="360"
+                        y="360"
+                      >
+                        <div
+                          class="sc-bdVaJa iTJoaa"
+                          height="60"
+                          width="80"
+                        >
+                          <p>
+                            John I
+                          </p>
+                        </div>
+                      </foreignobject>
+                      <g>
+                        <path
+                          d="M 400 360 V 345 H 345 V 300"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <foreignobject
+              height="60"
+              width="80"
+              x="580"
+              y="90"
+            >
+              <div
+                class="sc-bdVaJa iTJoaa"
+                height="60"
+                width="80"
+              >
+                <p>
+                  Adeliza of Louvain
+                </p>
+              </div>
+            </foreignobject>
+            <path
+              d="M 580 120 H 387"
+              stroke="red"
+            />
+          </g>
+        </g>
+        <g
+          fill="none"
+          stroke="black"
+          stroke-width="1"
+          style="shape-rendering:crispEdges;"
+        >
+          <foreignobject
+            height="60"
+            width="80"
+            x="690"
+            y="90"
+          >
+            <div
+              class="sc-bdVaJa iTJoaa"
+              height="60"
+              width="80"
+            >
+              <p>
+                Robert Curthose
+              </p>
+            </div>
+          </foreignobject>
+          <g>
+            <path
+              d="M 730 90 V 75 H 510 V 30"
+            />
+          </g>
+        </g>
+        <g
+          fill="none"
+          stroke="black"
+          stroke-width="1"
+          style="shape-rendering:crispEdges;"
+        >
+          <foreignobject
+            height="60"
+            width="80"
+            x="800"
+            y="90"
+          >
+            <div
+              class="sc-bdVaJa iTJoaa"
+              height="60"
+              width="80"
+            >
+              <p>
+                Adela of Normandy
+              </p>
+            </div>
+          </foreignobject>
+          <g>
+            <path
+              d="M 840 90 V 75 H 510 V 30"
+            />
+          </g>
+          <g>
+            <foreignobject
+              height="60"
+              width="80"
+              x="910"
+              y="90"
+            >
+              <div
+                class="sc-bdVaJa iTJoaa"
+                height="60"
+                width="80"
+              >
+                <p>
+                  Stephen II Henry
+                </p>
+              </div>
+            </foreignobject>
+            <path
+              d="M 910 120 H 882"
+              stroke="red"
+            />
+            <g
+              fill="none"
+              stroke="black"
+              stroke-width="1"
+              style="shape-rendering:crispEdges;"
+            >
+              <foreignobject
+                height="60"
+                width="80"
+                x="800"
+                y="180"
+              >
+                <div
+                  class="sc-bdVaJa iTJoaa"
+                  height="60"
+                  width="80"
+                >
+                  <p>
+                    Stephen of Blois
+                  </p>
+                </div>
+              </foreignobject>
+              <g>
+                <path
+                  d="M 840 180 V 165 H 895 V 120"
+                />
+              </g>
+            </g>
+          </g>
+        </g>
       </g>
     </g>
   </svg>

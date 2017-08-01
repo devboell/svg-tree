@@ -8,7 +8,7 @@ const dimensions = {
   boxWidth: 80,
   boxHeight: 60,
   marginX: 30,
-  marginY: 0,
+  marginY: 30,
 }
 
 const App = () =>

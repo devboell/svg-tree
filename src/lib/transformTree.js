@@ -29,8 +29,10 @@ export const transformTree = (tree, dimensions, level = 0) => {
           partnerNode.children.push(childNode)
         })
       } else {
-        partnerNode.totalWidth = 2 * nodeWidth // if no children, give min width
         partnerNode.totalHeight += nodeHeight
+      }
+      if (partnerNode.totalWidth <= 2 * nodeWidth) {
+        partnerNode.totalWidth = 2 * nodeWidth // give min width
       }
       node.totalWidth += partnerNode.totalWidth
       if (node.totalHeight < partnerNode.totalHeight) {
