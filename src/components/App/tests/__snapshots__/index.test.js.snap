@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component 1`] = `
+<div
+  class="sc-bwzfXH jTAEBk"
+>
+  <svg
+    height="62"
+    width="662"
+  >
+    <g
+      fill="none"
+      stroke="black"
+      stroke-width="1"
+      style="shape-rendering:crispEdges;"
+    >
+      <foreignobject
+        height="60"
+        width="80"
+        x="30"
+        y="0"
+      >
+        <div
+          class="sc-bdVaJa iTJoaa"
+          height="60"
+          width="80"
+        >
+          <p>
+            William I
+          </p>
+        </div>
+      </foreignobject>
+      <g />
+      <g>
+        <foreignobject
+          height="60"
+          width="80"
+          x="140"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa iTJoaa"
+            height="60"
+            width="80"
+          >
+            <p>
+              Matilde of Flanders
+            </p>
+          </div>
+        </foreignobject>
+        <path
+          d="M 140 30 H 112"
+          stroke="red"
+        />
+      </g>
+      <g>
+        <foreignobject
+          height="60"
+          width="80"
+          x="360"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa iTJoaa"
+            height="60"
+            width="80"
+          >
+            <p>
+              mistress
+            </p>
+          </div>
+        </foreignobject>
+        <path
+          d="M 360 30 H 222"
+          stroke="red"
+        />
+      </g>
+      <g>
+        <foreignobject
+          height="60"
+          width="80"
+          x="580"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa iTJoaa"
+            height="60"
+            width="80"
+          >
+            <p>
+              mistress 2
+            </p>
+          </div>
+        </foreignobject>
+        <path
+          d="M 580 30 H 442"
+          stroke="red"
+        />
+      </g>
+    </g>
+  </svg>
+</div>
+`;

@@ -1,7 +1,7 @@
 {
-  "name": "basic-react-bp",
+  "name": "svg-tree",
   "version": "1.0.0",
-  "description": "Basic react boiler with jest.",
+  "description": "",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server",
@@ -37,12 +37,15 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-hot-loader": "3.0.0-beta.6",
+    "styled-components": "^2.1.1",
     "webpack": "^3.2.0"
   },
   "jest": {
     "setupFiles": [
       "./config/jestsetup.js"
     ],
+    "moduleDirectories": ["src", "src/components", "src/lib", "node_modules"],
+
     "snapshotSerializers": [
       "<rootDir>/node_modules/enzyme-to-json/serializer"
     ],
