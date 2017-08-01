@@ -1,7 +1,7 @@
 {
   "name": "svg-tree",
   "version": "1.0.0",
-  "description": "",
+  "description": "React project that uses recursive svg components to display a (family) data tree",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server",
